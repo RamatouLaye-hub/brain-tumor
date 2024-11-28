@@ -7,4 +7,10 @@ pip
 python-dotenv
 tqdm
 typer
+datasets
+torch
+torchvision
+transformers
+pytorch-lightning
+wandb
 -e .
